@@ -1,4 +1,9 @@
-### React로 "Hello world!"
+---
+layout: post
+title: React로 'Hello world!'
+---
+
+### React로 'Hello world!'
 
 최근 학습중인 리액트에 대해 정리
 
