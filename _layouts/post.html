@@ -5,9 +5,9 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-
+    
    </header>
-
+  {% include post_tags.html %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
