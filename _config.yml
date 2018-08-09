@@ -87,6 +87,8 @@ sass:
 
 paginate: 10 # Number of letters displayed in a page
 
+paginate_path: "/blog/page:num/" # Create pages for posts
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
