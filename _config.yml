@@ -87,7 +87,7 @@ sass:
 
 paginate: 10 # Number of letters displayed in a page
 
-paginate_path: "/jaeworld.github.io/page:num/" # Create pages for posts
+paginate_path: "/blog/page:num/" # Create pages for posts
 
 # Use the following plug-ins
 gems:
