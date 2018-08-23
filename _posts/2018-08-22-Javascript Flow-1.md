@@ -3,7 +3,6 @@ layout: post
 title: Javascript Flow - 1
 tags:
 - Javascript
-- Front-end
 ---
 
 ### Javascript Flow - 1
