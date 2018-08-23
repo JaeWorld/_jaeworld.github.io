@@ -4,7 +4,6 @@ title: React로 'Hello world!'
 tags:
 - React
 - Javascript
-- Front-end
 ---
 
 ### React로 'Hello world!'
