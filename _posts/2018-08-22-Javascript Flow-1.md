@@ -79,32 +79,6 @@ tags:
 
 	a의 값을 주소 1012에 할당하고, b의 값을 주소 1013에 할당한다.
 
-	
-
-```flow
-st=>start: obj
-op=>operation: @413
-op1=>operation: @1011
-{
-    a: @1012,
-    b: @1013
-}
-opa=>operation: @1012
-1
-opb=>operation: @1013
-'b'
-cond=>condition: a or b?
-
-e=>end
-
-st->op->op1->cond
-cond(yes)->opa
-cond(no)->opb
-
-```
-
-다이어그램으로 표현하면 이렇게 된다. (이렇게 표시하는게 맞는지 모르겠다...)
-
 
 
 이번 강의를 통해 자바스크립트의 기본형, 참조형 데이터타입에 대해 살펴보았다.
