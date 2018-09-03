@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript Flow - 7
+title: (Javascript) 프로토타입
 tags:
 - Javascript
 ---
