@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Javascript) 프로토타입 static 메소드 및 프로퍼티
+title: (Javascript) static 메소드 및 프로퍼티
 tags:
 - Javascript
 ---
