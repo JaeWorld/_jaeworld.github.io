@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript Flow - 1
+title: (Javascript) 기본형, 
 tags:
 - Javascript
 ---
