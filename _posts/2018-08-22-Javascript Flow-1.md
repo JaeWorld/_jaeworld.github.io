@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Javascript) 기본형, 
+title: (Javascript) 기본형, 참조형
 tags:
 - Javascript
 ---
