@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React로 'Hello world!'
+title: (React) 'Hello world!'
 tags:
 - React
 - Javascript
