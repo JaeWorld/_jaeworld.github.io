@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Javascript) 스코프, 실행
+title: (Javascript) 스코프, 실행컨텍스트
 tags:
 - Javascript
 ---
