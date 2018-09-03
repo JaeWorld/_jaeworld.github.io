@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript Flow - 6
+title: (Javascript) 클로저
 tags:
 - Javascript
 ---
